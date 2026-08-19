@@ -2,8 +2,7 @@
     <h2 style="font-size: 44 px;"> 📊 Customer Churn & Retention Analysis </h2><br>
 </div>
 
-![Customer Churn & Retention Analysis](<img width="1326" height="744" alt="Screenshot 2026-04-26 185628" src="https://github.com/user-attachments/assets/1a19850f-70fd-4032-8537-34dd7ec518f9" />
-)
+![Customer Churn & Retention Analysis](https://drive.google.com/file/d/1XWzce5gt8M9NsmbyKNPoXxUpmZjyhLlk/view?usp=sharing)
 
 
 <p align="center">
